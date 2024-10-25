@@ -4,4 +4,4 @@ L. Lin, Y. Shen, J. Wu and F. Nan, "CAFE: A Cross-Attention Based Adaptive Weigh
 
 paper link:https://ieeexplore.ieee.org/document/10153669
 
-training data link: https://pan.baidu.com/s/1-Hz3rQoG7eV3ZWOeXKgFmQ code：kfz1 
+training data link: https://pan.baidu.com/s/15qA8zPHJw4kTE9-0geTeiA code：parc 
